@@ -1,0 +1,6 @@
+# OS or program files
+.DS_store
+.tmproj
+Thumbs.db
+.Spotlight-V100
+.Trashes
