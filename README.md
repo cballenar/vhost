@@ -55,3 +55,7 @@ This script is based on [jsifalda's nginx-server-manager-bash](https://github.co
 ## Todo
 - Add option to enabled and disable virtual hosts without removing them, i.e.: removing soft link in `/etc/nginx/sites-enabled/`
 - Use sudo only where required. If the www folder is setup with the permissions user:www-data, then root is not required for the creation of these files and it'd be better to have their ownership NOT be root:www-data
+- Improving nginx configuration file
+- Add some color to the output messages
+- What's better `echo` or `printf`?
+- Clean up
